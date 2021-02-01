@@ -1,0 +1,27 @@
+body {
+  background-color: #ffcc00;
+  margin-top: 20vh;
+}
+
+#player {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
+
+.logo {
+  width: 250px;
+}
+
+.logo__container {
+  text-align: center;
+}
+
+.main-text {
+  color:#4C2683;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 24px;
+  font-weight: bold;
+  font-style: italic;
+}
